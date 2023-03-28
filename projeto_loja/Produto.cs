@@ -1,0 +1,32 @@
+﻿namespace projeto_loja;
+class Produto
+{
+    public Produto(){
+        this.Nome = "tictoc";
+        this.Preco = 15;
+    }
+    public Produto(string nome){
+        this.Nome = nome;
+        this.Preco = 10;
+    }
+    public Produto(string nome, int desconto){
+        this.Nome = "abc";
+        this.Preco = 10 - (10*desconto/100);
+    }
+    private string? Nome {get;set;}
+    private double? Preco {get;set;}
+
+    public void AlterarNome(string nome){
+        this.Nome = nome;
+    }
+    public void AlterarPreco(double preco){
+        this.Preco = preco;
+    }
+    public void MostraDados(){
+        Console.WriteLine("Nome:"+ this.Nome);
+        Console.WriteLine("Preco:"+ this.Preco);
+
+    }
+
+
+}
