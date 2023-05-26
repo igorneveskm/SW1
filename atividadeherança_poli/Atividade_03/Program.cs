@@ -3,8 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Fisica f = new Fisica();
-        Juridica j = new Juridica();
+        Fisico f = new Fisico();
+        Juridico j = new Juridico();
     
         Console.WriteLine("Você é uma pessoa fisica ou juridica?");
         string metrica = Console.ReadLine();
