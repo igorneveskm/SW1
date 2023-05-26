@@ -1,0 +1,15 @@
+C:\Users\ETEC\Desktop\exercicio2\bin\Debug\net7.0\exercicio2.exe
+C:\Users\ETEC\Desktop\exercicio2\bin\Debug\net7.0\exercicio2.deps.json
+C:\Users\ETEC\Desktop\exercicio2\bin\Debug\net7.0\exercicio2.runtimeconfig.json
+C:\Users\ETEC\Desktop\exercicio2\bin\Debug\net7.0\exercicio2.dll
+C:\Users\ETEC\Desktop\exercicio2\bin\Debug\net7.0\exercicio2.pdb
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfo.cs
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.dll
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\refint\exercicio2.dll
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.pdb
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\exercicio2.genruntimeconfig.cache
+C:\Users\ETEC\Desktop\exercicio2\obj\Debug\net7.0\ref\exercicio2.dll
